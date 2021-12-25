@@ -1,0 +1,55 @@
+body{
+    background-color: yellowgreen;
+}
+section{
+    margin: 10% 17%;
+    background: white;
+    padding: 20px;
+}
+.title{
+    border-bottom: rgba(182, 174, 174, 0.233) solid 2px;
+}
+.total{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.part1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: rgba(182, 174, 174, 0.233) solid 2px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.fas{
+    margin: 0 20px;
+}
+.fa{
+    margin: 0 20px;
+}
+.photo1{
+    width: 100px;
+    height: 100px;
+}
+.name span{
+    font-weight: bold;
+}
+.bts{
+    display: block;
+}
+.bt{
+    margin: 0 20px;
+    cursor: pointer;
+}
+.ramzi{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
